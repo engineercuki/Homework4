@@ -12,18 +12,18 @@ Model/
 ├── LeaveLog.java
 DAO/
 ├── AttendanceLogDao.java
-    ├── AttendanceLogDaoImpl.java
+├── AttendanceLogDaoImpl.java
 ├── EmployeeDao.java
-    ├── EmployeeDaoImpl.java
+├── EmployeeDaoImpl.java
 ├── LeaveLogDao.java
-    ├── LeaveLogDaoImpl.java
+├── LeaveLogDaoImpl.java
 Service/
 ├── AttendanceLogService.java
-    ├── AttendanceLogServiceImpl.java
+├── AttendanceLogServiceImpl.java
 ├── EmployeeService.java
-    ├── EmployeeServiceImpl.java
+├── EmployeeServiceImpl.java
 ├── LeaveLogService.java
-    ├── LeaveLogServiceImpl.java
+├── LeaveLogServiceImpl.java
 Util/
 ├── CheckCode.java
 ├── DbConnection.java
