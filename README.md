@@ -36,7 +36,7 @@ Controller/
 ├── AttendanceLogPage.java
 ├── LeaveLogPage.java
 ├── InformationPage.java
-├── HRPage.java
+└── HRPage.java
 
 
 ## 🧭 架構說明
