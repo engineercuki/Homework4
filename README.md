@@ -72,6 +72,4 @@ Controller/
 - Swing UI
 - JDBC + MySQL
 - MVC 架構
-- Markdown 語法
-
 
