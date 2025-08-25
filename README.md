@@ -2,7 +2,7 @@
 
 # 🧱 HR 管理系統 - MVC 架構專案
 
-本專案採用 Java Swing + DAO + Service + MVC 架構，實作員工出勤與請假管理功能。
+本專案以 Java Swing MVC 架構實作，並將資料處理流程細分為 DAO 層（資料存取）、Service 層（商業邏輯）與 Controller 層（介面控制），完成員工出勤與請假管理功能。
 
 
 ## 📦 專案架構
@@ -42,11 +42,15 @@ Controller/
 
 ## 🧭 架構說明
 
-- **Model 層**：封裝資料結構，對應資料庫表格。
-- **DAO 層**：資料存取邏輯，負責 SQL 操作。
-- **Service 層**：業務邏輯處理，串接 DAO 與 Controller。
-- **Util 工具層**：提供驗證碼、資料庫連線、報表文案內容等共用工具。
-- **Controller 層**：Swing UI 介面，處理使用者互動。
+◎ Model：資料結構與資料庫對應。
+
+◎ DAO：資料存取層，執行 SQL 操作。
+
+◎ Service：業務邏輯層，整合 DAO 與 Controller。
+
+◎ Util：共用工具，例如驗證碼、資料庫連線與報表。
+
+◎ Controller：UI 控制層，處理使用者互動與流程。
 
 ## 🚀 執行方式
 
