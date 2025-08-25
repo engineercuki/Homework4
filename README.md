@@ -5,7 +5,7 @@
 本專案採用 Java Swing + DAO + Service + MVC 架構，實作員工出勤與請假管理功能。
 
 ## 📦 專案架構
-Model/ ├── AttendanceLog.java 
+      Model/ ├── AttendanceLog.java 
 ├── Employee.java 
 ├── LeaveLog.java
 DAO/├── AttendanceLogDao.java
@@ -24,12 +24,12 @@ Util/ ├── CheckCode.java
 ├── DbConnection.java
 ├── Tool.java        
 Controller/ ├── HomePageUnlogin.java
-├── LoginPage.java
-├── HomePage.java
-├── AttendanceLogPage.java
-├── LeaveLogPage.java
-├── InformationPage.java
-├── HRPage.java
+            ├── LoginPage.java
+            ├── HomePage.java
+            ├── AttendanceLogPage.java
+            ├── LeaveLogPage.java
+            ├── InformationPage.java
+            ├── HRPage.java
 
 
 ## 🧭 架構說明
