@@ -6,7 +6,7 @@
 
 
 ## 📦 專案架構
-
+```
 Model/
 ├── AttendanceLog.java
 ├── Employee.java
@@ -37,6 +37,7 @@ Controller/
 ├── LeaveLogPage.java
 ├── InformationPage.java
 └── HRPage.java
+```
 
 
 ## 🧭 架構說明
